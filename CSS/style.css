@@ -1,7 +1,7 @@
 html {background-color: aqua;}
 .inline-block {
     display: inline-block;
-vertical-align: top;
+    vertical-align: top;
 }
 .logo {
    width: 23%;
@@ -19,7 +19,6 @@ ul {
     text-align: center;
 }
 .heroImg {
-    height: 600px;
     padding: 25px;
 }
 .content {
@@ -36,4 +35,6 @@ footer {
     display: inline-block;
     vertical-align: top; 
     text-align: center;
+    padding: center;
+    color: white
 }
